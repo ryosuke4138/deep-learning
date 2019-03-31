@@ -1,0 +1,17 @@
+--2019-03-31 19:54:46--  http://paper/
+Resolving paper (paper)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address `paper'
+--2019-03-31 19:54:46--  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320
+Resolving citeseerx.ist.psu.edu (citeseerx.ist.psu.edu)... 130.203.136.95
+Connecting to citeseerx.ist.psu.edu (citeseerx.ist.psu.edu)|130.203.136.95|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5642 (5.5K) [text/html]
+Saving to: `download?doi=10.1.1.676.4320'
+
+download?doi=10.1.1.676.4320        0%[                                                             ]       0  --.-KB/s               download?doi=10.1.1.676.4320      100%[============================================================>]   5.51K  30.6KB/s    in 0.2s    
+
+2019-03-31 19:54:47 (30.6 KB/s) - `download?doi=10.1.1.676.4320' saved [5642/5642]
+
+FINISHED --2019-03-31 19:54:47--
+Total wall clock time: 1.1s
+Downloaded: 1 files, 5.5K in 0.2s (30.6 KB/s)
